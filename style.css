@@ -20,6 +20,7 @@ border:solid 5px rgb(252, 255, 55)
     left:149px;
     bottom:149px;
     opacity: 50%;
+    transform-origin: 0 100%;
 }
 #minutes{
     height: 100px;
@@ -28,6 +29,7 @@ border:solid 5px rgb(252, 255, 55)
     position: absolute;
     left: 149px;
     bottom: 149px;
+    transform-origin: 0 100%;
 
 }
 #hours{
@@ -37,6 +39,7 @@ border:solid 5px rgb(252, 255, 55)
     background-color: rgb(205,112,255);
     left: 148px;
     bottom: 148px;
+    transform-origin: 0 100%;
 }
 #center{
     width: 10px;
